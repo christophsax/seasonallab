@@ -9,11 +9,11 @@ point
 To install from GitHub, use:
 
     library(devtools)
-    install_github("Rdatatable/data.table", build_vignettes=FALSE)
+    install_github("christophsax/seasonallab")
 
 
 ## Content
 
-- `robust.seas`: A Robust Version of `seas` that *Always* Works
+- `robust.seas`: a robust version of `seas` that *always* works
 
 
