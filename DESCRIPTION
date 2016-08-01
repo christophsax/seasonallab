@@ -1,0 +1,15 @@
+Package: seasonallab
+Type: Package
+Title: experimental stuff that may go into the seasonal package at some point
+Version: 0.1
+Date: 2016-08-01
+Author: Christoph Sax
+Maintainer: Christoph Sax <christoph.sax@gmail.com>
+Description: experimental stuff that may go into the seasonal package at some point.
+Depends:
+    seasonal
+License: GPL-3
+URL: http://www.seasonal.website
+BugReports: https://github.com/christophsax/seasonallab
+LazyData: true
+RoxygenNote: 5.0.1
